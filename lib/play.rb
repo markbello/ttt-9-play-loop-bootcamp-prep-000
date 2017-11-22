@@ -37,7 +37,7 @@ end
 
 # Define your play method below
 
-def play(board)
+def play()
   count = 0
   while count > 10
     turn(board)
